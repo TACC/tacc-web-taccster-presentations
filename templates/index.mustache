@@ -1,0 +1,30 @@
+{{#entries}}
+			<table width="100%">
+				<tbody>
+					<tr>
+						<td valign="top" width="10%">
+							<p style="font-size: 25px;">
+								<b>{{index}}</b></p>
+						</td>
+						<td>
+							<h5 style="margin-top: 7px;">
+								{{title}}</h5>
+							<p>
+								<b>{{{participants}}}</b>{{!
+						}}{{#institution}}{{!
+							}}{{^is-list}}{{!
+								}}<br />{{institution}}{{!
+							}}{{/is-list}}{{!
+							}}{{#is-list}}{{!
+								}}{{#list}}
+								<br>{{index}}. {{value}}{{!
+								}}{{/list}}{{!
+							}}{{/is-list}}{{!
+						}}{{/institution}}{{!
+							}}</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<hr />
+{{/entries}}

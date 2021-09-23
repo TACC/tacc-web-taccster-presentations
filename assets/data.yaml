@@ -1,0 +1,208 @@
+entries:
+  - title: >-
+      An End-to-End Framework for Informing Hurricane Resilience Investments in Critical Infrastructure
+    participants: Brent Austgen*, Ashutosh Shukla, Dr. Erhan Kutanoglu, Dr. John Hasenbein
+    institution: The University of Texas at Austin
+
+  - title: >-
+      Varying Receptive Fields for Thermal Image Super-Resolution
+    participants: William J. Beksi*, Nolan B. Gutierrez
+    institution: University of Texas at Arlington
+
+  - title: >-
+      Reinforcement Learning for Quantum Systems
+    participants: Ariel R. Barr*, Willem Gispen
+    institution:
+      is-list: TRUE
+      list:
+        - Massachusetts Institute of Technology
+        - University of Cambridge
+
+  - title: >-
+      Numerical simulations against Experimental data: a comparison of atmospheric flow over real terrain topography
+    participants: Federico Bernardoni*, Umberto Ciri and Stefano Leonardi
+    institution: University of Texas at Dallas, Richardson
+
+  - title: >-
+      Flow Stabilization in a 3D Channel flow
+    participants: Andras Balogh* and Camille Vasquez
+    institution: The University of Texas Rio Grande Valley
+
+  - title: >-
+      Exploring the role of interfacial cation in F ion channel using MD simulation: Application of computational chemistry
+    participants: Aru Chezhian*, Zabin Momin, Hedieh Torabifard
+    institution: University of Texas at Dallas
+
+  - title: >-
+      Quantum Mechanical Studies of Topiroxostat Analogs for XO inhibition
+    participants: Chao Dong*, Samantha James
+    institution: Department of Chemistry, University of Texas of Permian Basin, Odessa
+
+  - title: >-
+      Characterization of large social information networks using high performance computing
+    participants: Hassan Dashtian*, Dhiraj Murthy
+    institution: University of Texas at Austin
+
+  - title: >-
+      Mutational analysis of SLC25A51 residues important for NAD+ binding and transport
+    participants: Shivansh Goyal*, Jared M. Eller, Lulu Cambronne
+    institution: University of Texas at Austin
+
+  - title: >-
+      Revisit the quantum 3 body problem
+    participants: Jonathan Jerke*, Bill Poirier 
+    institution: Texas Tech University
+
+  - title: >-
+      Examining the Biochemical Activity of Anti-CRIPSR Protein, AcrIIA7
+    participants: Negar Koupaei*, Soo Hyun Yang
+    institution: The University of Texas at Austin
+
+  - title: >-
+      A large-scale 3D micromechanical computational myocardium model
+    participants: David S. Li<sup>1</sup>*, Emilio A. Mendiola<sup>1</sup>, Reza Avazmohammadi<sup>2</sup>, Frank B. Sachse<sup>3</sup>, and Michael S. Sacks<sup>1</sup>
+    institution:
+      is-list: TRUE
+      list:
+        - The University of Texas at Austin
+        - Texas A&M University
+        - The University of Utah
+
+  - title: >-
+      Simulating Potential Impacts ofDredging on Local Fish Populations
+    participants: Mark Loveland*, Eirik Valseth, Clint Dawson, Edward Buskey
+    institution: The University of Texas at Austin
+
+  - title: >-
+      Animation development and student projects at TACC Visualization Center
+    participants: Yuliya Lanina*
+    institution: The University of Texas at Austin
+
+  - title: >-
+      Unraveling The Profound Iso-structural & -Electronic Relations of Pd145(CO)60 to Au144(CN)60 NanoClusters
+    participants: X. López-Lozano<sup>1</sup>*, C. Crystal<sup>1</sup>, J. Johnson<sup>1</sup>, S.-M. Mullins<sup>1</sup>, H.-Ch. Weissker<sup>2</sup>, R. L. Whetten<sup>3</sup>
+    institution:
+      is-list: TRUE
+      list:
+        - University of Texas San Antonio
+        - Aix Marseille University, France
+        - Northern Arizona University
+
+  - title: >-
+      Data-driven data-fitting: Adaptive spline fitting and its applications
+    participants: Soumya D. Mohanty*, Thomas Cruz, M. A. T. Chowdhury
+    institution: The University of Texas Rio Grande Valley
+
+  - title: >-
+      The taxonomic ecology and functional potential of the urobiome is shaped by recurrent urinary tract infection and estrogen in postmenopausal women.
+    participants: Michael L. Neugent*, Ashwani Kumar, Neha V. Hulyalkar, Cong Zhang, Vivian H. Nguyen, Kevin C. Lutz, Jorge Fuentes, Amber Nguyen, Belle M. Sharon, Amy Kuprasertkul, Amanda P. Arute, Qiwei Li, Chao Xing, Vladimir Shulaev, Philippe E. Zimmern, Kelli L. Palmer, Nicole J. De Nisco
+    institution:
+      is-list: TRUE
+      list:
+        - University of Texas at Dallas
+        - University of Texas Southwestern Medical Center
+        - University of Texas at Dallas, Richardson
+        - University of North Texas
+
+  - title: >-
+      Numerical Simulation of Hydrodynamic Forces on Bridges Subjected to High-Velocity Flows
+    participants: Fahad Pervaiz* and Michelle Hummel
+    institution: Univ. of Texas at Arlington, Arlington, TX
+
+  - title: >-
+      Incorporating model selection to predict patient-specific response to neoadjuvant therapy using quantitative magnetic resonance imaging: Preliminary Results
+    participants: Caleb M. Phillips*, Ernesto A. B. F. Lima Chengyue Wu, Angela M. Jarrett, Zijian Zhou, Nabil Elshafeey, Jingfei Ma, Gaiane M. Rauch, Thomas E. Yankeelov
+    institution:
+      is-list: TRUE
+      list:
+        - Oden Institute for Computational Engineering and Sciences
+        - Texas Advanced Computing Center
+        - Livestrong Cancer Institutes
+        - The University of Texas at Austin
+        - The University of Texas MD Anderson Cancer Center
+
+  - title: >-
+      CFD Multiphase Flow Modeling Inside Structured Packings
+    participants: Mikey T. Phan*, Luke H. Macfarlan, and R. Bruce Eldridge
+    institution: The University of Texas at Austin
+
+  - title: >-
+      DFT investigation of para-substitution effects on the C—C bond activation of benzonitrile by a zerovalent nickel complex
+    participants: Juliana Rodrigue<sup>1</sup>*, Julissa Rodriguez<sup>1</sup>, Abdurrahman C. Atesin<sup>1</sup>, William D. Jones<sup>2</sup>, Tülay A. Ateşin<sup>1</sup>
+    institution:
+      is-list: TRUE
+      list:
+        - University of Texas Rio Grande Valley, Department of Chemistry 
+        - University of Rochester, Department of Chemistry 
+
+  - title: >-
+      From Cancer Sequencing Data to Neoantigen Prediction: A reusable pipeline using Snakemake
+    participants: Jensen Richardson*, Jafrin Pritha, Wenxuan Jiang, Rohit Prasad, Dhivya Arasappan, Jeanne Kowalski-Muegge
+    institution: University of Texas at Austin
+
+  - title: >-
+      ParaMonte: An Efficient Serial/Parallel MCMC Library
+    participants: Parvat Sapkota*, Joshua A. Osborne, Shashank Kumbhare, Fatemeh Bagheri and Amir Shahmoradi
+    institution: The University of Texas, Arlington
+
+  - title: >-
+      User-Friendly Drug Discovery Web Applications on the Texas Advanced Computing Center
+    participants: Jason Sanche<sup>1</sup>*, Md Hassan<sup>2</sup>, Hernan Garcia<sup>2</sup>, Jesus Garcia<sup>2</sup>, Manuel Aguilar<sup>2</sup>, William J.Allen<sup>3</sup>, Yuanfei Sun<sup>4</sup>, Yang Shen<sup>4</sup>, Suman Sirimulla<sup>5</sup>, and Stanley Watowich<sup>6</sup>
+    institution:
+      is-list: TRUE
+      list:
+        - Department of Computational Sciences, The University of Texas at El Paso
+        - Department of Computer Science, The University of Texas at El Paso
+        - The University of Texas at Austin
+        - Texas A&M University
+        - Department of Pharmaceutical Sciences, The University of Texas at El Paso
+        - The University of Texas Medical Branch at Galveston
+
+  - title: >-
+      Substitutional Effects of Ni and Zn on Thermoelectric Properties of Cobalt Spinels: A first Principle Approach
+    participants: Arashi Shimizu*, Davisin Lopez, Nolan Hines, Terence Musho, Anveeksh Koneru
+    institution: Undergraduate mechanical engineering UTPB
+
+  - title: >-
+      Targeting the Undruggable: A Structure Guided Approach to Targeting KRAS
+    participants: Rim Touhami*, Srivathsan Ranganathan
+    institution: Oregon Health and Science University
+
+  - title: >-
+      Prediction of Ligand Activity at Subcellular Location
+    participants: Manikya Varshney*, Srijan Verma, Govinda K.C., Giovanni Bocci, Tudor I Oprea, and Suman Sirimulla
+    institution:
+      is-list: TRUE
+      list:
+        - The University of Texas at El Paso
+        - BITS Pilani, India
+        - University of New Mexico Health Sciences Center
+
+  - title: >-
+      The role of RCAN1 in Down syndrome hippocampus via RNA-Seq analysis in Dp16 mice
+    participants: Sebastian Velez*<sup>6</sup>, Helen Wong<sup>1,2</sup>, Mina Griffioen<sup>2</sup>, Josien Levenga<sup>1,3</sup>, Carolyn Ardizzone<sup>2</sup>, Radu Moldovan<sup>4</sup> and Charles A. Hoeffer<sup>1,2,3</sup>, Robin Dowell<sup>5</sup>, Sebastian Velez<sup>6</sup>, Mary Allen<sup>5</sup>
+    institution:
+      is-list: TRUE
+      list:
+        - Institute for Behavioral Genetics, University of Colorado, Boulder
+        - Department of Integrative Physiology, University of Colorado, Boulder
+        - Linda Crnic Institute, Denver, Colorado
+        - Department of Pharmacology, University of Colorado, Anschutz Medical Campus, Denver
+        - Department of Molecular, Cellular, and Developmental Biology, University of Colorado, Boulder
+        - Department of Electrical and Computer Engineering, University of Texas, San Antonio
+
+  - title: >-
+      Contrasting static and contextualised embeddings in the use of semantic featurevectors in neurophysiological prediction
+    participants: Lokesh Pugalenthib*, Heather Diala*, Nike Gnanatejac, Rachel Tessmerd, Maya Henryd, Jessy Lib
+    institution:
+      is-list: TRUE
+      list:
+        - University of Houston
+        - Department of Linguistics, College of Liberal Arts and Social Sciences, University of Texas at Austin
+        - University of Pittsburgh
+        - Speech Language and Hearing Sciences, Moody College of Communication, University of Texas at Austin
+
+  - title: >-
+      Structural Variant Detection Tools Struggle with Whole Exome Sequencing (WES) Data
+    participants: Lokesh Pugalenthi*, Rahul Nanduri*
+    institution: Livestrong Cancer Institute, Dell Medical School, University of Texas at Austin
